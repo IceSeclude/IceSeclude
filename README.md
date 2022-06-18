@@ -3,6 +3,8 @@
 
 MyS1rvant是一个热衷于信息安全的萌新。
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Is a fei;not)](https://git.io/typing-svg)
+
 他想要学习更多的开发知识来补全自己代码能力的弱项
 
 比如PHP、Python或Java.
