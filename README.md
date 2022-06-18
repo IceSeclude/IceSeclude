@@ -1,8 +1,6 @@
-# MyS1rvant     ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MyServant.visitor-badge)
+# MyS1rvant 👻     ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MyServant.visitor-badge)
 
-MyS1rvant是一个热衷于信息安全的初级萌新
-This is my space.
 
-Thank you to follow me.
+MyS1rvant是一个热衷于信息安全的萌新。
 
-Hope you can make friend with me,please.
+他想要学习更多的开发知识来补全自己代码能力的弱项。
