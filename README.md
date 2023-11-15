@@ -18,7 +18,3 @@ Environment as
 
 
 
-For Myself
-
-![Metrics](https://metrics.lecoq.io/MyServant?template=classic&base.indepth=false&base.hireable=false&config.timezone=Etc%2FGMT-8)
-
