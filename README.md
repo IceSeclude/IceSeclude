@@ -1,12 +1,12 @@
 # X1aoYou 👻     ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MyServant.visitor-badge)
 
-X1aoYou是一个热衷于网络安全的萌新。
+一个热衷于网络安全的萌新。
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=热衷于动漫和二次元♥;热衷于网络安全)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=是一名狂热的动漫爱好者，入宅十余年♥;同时也是一名信安爱好者、菜鸡)](https://git.io/typing-svg)
 
-他想要学习更多的开发知识来补全自己代码能力的弱项
+经常emo和散播焦虑>_<
 
-比如PHP、Python或Java.
+VRchat Quest2、PC玩家
 
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
