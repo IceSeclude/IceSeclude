@@ -1,4 +1,4 @@
-# X1aoYou 👻     ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MyServant.visitor-badge)
+# X1aoYou 👻 
 
 一个热衷于网络安全的萌新。
 
